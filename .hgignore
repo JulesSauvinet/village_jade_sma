@@ -1,0 +1,10 @@
+syntax: glob
+
+lib/jade.jar
+nbproject/*
+.idea/*
+lib/*
+build.xml
+*.iml
+out/*
+src/mif24/jadedemo/test
